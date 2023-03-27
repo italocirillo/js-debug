@@ -83,11 +83,8 @@ printColorsNumber();
     1- Che cosa fa questo codice?
     Questa codice indica il numero di colori nella palette
 
-    2- Sono presenti errori di sintassi?
+    2- Sono presenti errori?
     Lenght era scritto nel modo sbagliato
-
-    3- Sono presenti errori logici?
-    No
     
 
 *******************************************************************************/
@@ -122,11 +119,8 @@ addNumbers();
     1- Che cosa fa questo codice?
     Aggiunge al numero dell'utente il numero 12
 
-    2- Sono presenti errori di sintassi?
+    2- Sono presenti errori?
     Sì,non c'era scritto parseInt a userNumber,così facendo prendeva il risultato come concatenazione di stringhe e non come somma di 2 numeri
-
-    3- Sono presenti errori logici?
-    No
     
 
 *******************************************************************************/
@@ -193,11 +187,8 @@ checkAccess();
     1- Che cosa fa questo codice?
     Controlla se l'indirizzo email dell'utente è nella lista dell'email
 
-    2- Sono presenti errori di sintassi?
+    2- Sono presenti errori?
     Sì la variabile 'grantAccess' era inizializzata come stringa e non come variabile booleana,questo causava un malfunzionamento nel programma
-
-    3- Sono presenti errori logici?
-    No
     
 
 *******************************************************************************/

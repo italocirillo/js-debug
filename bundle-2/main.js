@@ -103,11 +103,8 @@ loopToFive();
     1- Che cosa fa questo codice?
     Stampa i numeri dall' 1 al 5
 
-    2- Sono presenti errori di sintassi?
+    2- Sono presenti errori?
     Sì c'erano le virgole nel for al posto dei punti e virgola
-
-    3- Sono presenti errori logici?
-    No
     
 
 *******************************************************************************/
@@ -152,7 +149,7 @@ console.log(displayEvenNumbers()); // [2,4,6,8]
     1- Che cosa fa questo codice?
     Dato un array,riempe un altro array solo di numeri pari e poi lo stampa
 
-    2- Sono presenti errori di sintassi?
+    2- Sono presenti errori?
     1 C'è un punto e virgola di troppo nel for
     2 C'è un solo uguale nel if,invece ce ne vanno 3
     3 Nell'if non va controllato numbers ma numbers[i]
@@ -161,9 +158,6 @@ console.log(displayEvenNumbers()); // [2,4,6,8]
     6 I due array sono const non let
     7 Dopo l'if non ci va il punto e virgola
     8 Nell'if non bisgna mettere lenght -1 ma solo lenght perchè tanto essendo minore non arriva a 8 ma si ferma a 7 quindi all'ultimo indice dell'array
-
-    3- Sono presenti errori logici?
-    SI
     
 
 *******************************************************************************/
