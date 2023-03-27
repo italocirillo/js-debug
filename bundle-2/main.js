@@ -68,7 +68,7 @@ console.log(addIfEven(7));
     Se il numero è pari aggiunge 5 a quel numero altrimenti ritorna semplicemente il numero
 
     2- Sono presenti errori di sintassi?
-    No
+    Sì ci vogliono 3 uguali
 
     3- Sono presenti errori logici?
     Sì non c'era scritto l'else
